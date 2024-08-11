@@ -1,3 +1,5 @@
+\c taylor_employee_db
+
 -- Insert departments
 INSERT INTO department (name)
 VALUES

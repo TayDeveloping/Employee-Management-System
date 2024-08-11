@@ -1,3 +1,9 @@
+DROP DATABASE IF EXISTS taylor_employee_db;
+
+CREATE DATABASE taylor_employee_db;
+
+\c taylor_employee_db
+
 CREATE TABLE department (
     id SERIAL PRIMARY KEY,
     name VARCHAR(30) UNIQUE NOT NULL
