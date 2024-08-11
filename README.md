@@ -87,3 +87,6 @@ manager_id: Self-referencing foreign key for the employee’s manager.
 
 ## License 
 This project is licensed under the MIT License. See the LICENSE file for more details.
+
+# WATCH HOW TO VIDEO
+(https://vimeo.com/997484197?share=copy)
